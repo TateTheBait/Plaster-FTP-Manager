@@ -123,4 +123,6 @@ private:
     int rc;
     bool connected;
     wxString lastError;
+
+    //Dedicated to my love; VI <3
 };
