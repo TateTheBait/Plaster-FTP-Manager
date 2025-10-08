@@ -124,5 +124,5 @@ private:
     bool connected;
     wxString lastError;
 
-    //Dedicated to my love; VI <3
+    //Dedicated to my love; V <3
 };
